@@ -1,0 +1,15 @@
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifierApp.exe
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifierApp.deps.json
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifierApp.runtimeconfig.json
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifierApp.dll
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TriangleTypeIdentifier\bin\Debug\net8.0\TriangleTypeIdentifierApp.pdb
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifierApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifierApp.AssemblyInfoInputs.cache
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifierApp.AssemblyInfo.cs
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifierApp.csproj.CoreCompileInputs.cache
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifierApp.sourcelink.json
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifierApp.dll
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TriangleTypeIdentifier\obj\Debug\net8.0\refint\TriangleTypeIdentifierApp.dll
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifierApp.pdb
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TriangleTypeIdentifier\obj\Debug\net8.0\TriangleTypeIdentifierApp.genruntimeconfig.cache
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TriangleTypeIdentifier\obj\Debug\net8.0\ref\TriangleTypeIdentifierApp.dll
