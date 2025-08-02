@@ -1,0 +1,15 @@
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculatorApp.exe
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculatorApp.deps.json
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculatorApp.runtimeconfig.json
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculatorApp.dll
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TicketPriceCalculator\bin\Debug\net8.0\TicketPriceCalculatorApp.pdb
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculatorApp.AssemblyInfo.cs
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculatorApp.sourcelink.json
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculatorApp.dll
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TicketPriceCalculator\obj\Debug\net8.0\refint\TicketPriceCalculatorApp.dll
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculatorApp.pdb
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TicketPriceCalculator\obj\Debug\net8.0\TicketPriceCalculatorApp.genruntimeconfig.cache
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\TicketPriceCalculator\obj\Debug\net8.0\ref\TicketPriceCalculatorApp.dll
