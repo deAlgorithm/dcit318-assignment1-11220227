@@ -1,0 +1,15 @@
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\GradeCalculator\bin\Debug\net6.0\GradeCalculatorApp.exe
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\GradeCalculator\bin\Debug\net6.0\GradeCalculatorApp.deps.json
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\GradeCalculator\bin\Debug\net6.0\GradeCalculatorApp.runtimeconfig.json
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\GradeCalculator\bin\Debug\net6.0\GradeCalculatorApp.dll
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\GradeCalculator\bin\Debug\net6.0\GradeCalculatorApp.pdb
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\GradeCalculator\obj\Debug\net6.0\GradeCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\GradeCalculator\obj\Debug\net6.0\GradeCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\GradeCalculator\obj\Debug\net6.0\GradeCalculatorApp.AssemblyInfo.cs
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\GradeCalculator\obj\Debug\net6.0\GradeCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\GradeCalculator\obj\Debug\net6.0\GradeCalculatorApp.sourcelink.json
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\GradeCalculator\obj\Debug\net6.0\GradeCalculatorApp.dll
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\GradeCalculator\obj\Debug\net6.0\refint\GradeCalculatorApp.dll
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\GradeCalculator\obj\Debug\net6.0\GradeCalculatorApp.pdb
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\GradeCalculator\obj\Debug\net6.0\GradeCalculatorApp.genruntimeconfig.cache
+C:\Users\ishaq\Downloads\Level 300 2nd Sem\DCIT318  Programming 2\ASSIGNMENTS\dcit318-assignment1-11220227\GradeCalculator\obj\Debug\net6.0\ref\GradeCalculatorApp.dll
